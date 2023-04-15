@@ -1,2 +1,3 @@
 # Music-Player
-Project on Music player
+Project on a proper functioning Music player.
+With Next, Forward, Pause and Play functionalities.
